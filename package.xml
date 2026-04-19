@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>panda_trefoil_trajectory</name>
+  <version>0.1.0</version>
+  <description>Traiettoria Trefoil Knot per robot Panda su Gazebo</description>
+
+  <maintainer email="tuo@email.com">Your Name</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>moveit_core</depend>
+  <depend>moveit_ros_planning_interface</depend>
+  <depend>moveit_ros_move_group</depend>
+  <depend>geometry_msgs</depend>
+</package>
+
